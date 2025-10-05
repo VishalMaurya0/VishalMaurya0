@@ -48,10 +48,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmaurya0&layout=compact&theme=tokyonight" height="160px"/>
 </p>
-
+### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmaurya0&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github.com/vishalmaurya0/vishalmaurya0/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
